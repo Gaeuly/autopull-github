@@ -1,3 +1,3 @@
 # autopull-github
-sacrifice for auto pull merge github to get achievementt
+sacrifice for auto pull merge github to get achievement
 
